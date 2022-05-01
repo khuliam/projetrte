@@ -1,5 +1,13 @@
 # projetrte
 
+# Avant de commencer, faite ceci
+Configurez votre installation locale de Git pour utiliser vos informations d'identification GitHub en saisissant les informations suivantes :
+
+1) git config --global user.name "github_username"
+2) git config --global user.email "email_address"
+
+email_address est votre adresse mail et github_username est votre nom d'utilisateur github (qui s'affiche génerallement en haut, a l'extrême droite dans github)
+
 # Objectif:
 Cette branche est mis en place pour faire appliqué la première utilisation de git par chacun des membres afin de voir quel sera la procédure a suivre tout au long du projet pour commiter les modifications apporter au projet. Il est donc question que chacun clone le dépôt du projet sur sa machine, modifie le contenu du fichier LISTE_DES_MEMBRES.txt pour y ajouter son non suivant la nomenclature du fichier et par la suite envoyer les modifications apportées au fichier sur github.
 
@@ -16,4 +24,5 @@ Cette branche est mis en place pour faire appliqué la première utilisation de 
 Une fois tout cela fait, se rendre sur github, retrouver projetrte et faire un *pull request
 
 # NB
-Les merges Request ou pull request ce ferons de la branche List_of_memebers vers la branche nommé test
+Les merges Request ou pull request ce ferons de la branche List_of_memebers vers la branche nommé test.
+
