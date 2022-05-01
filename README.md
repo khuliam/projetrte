@@ -5,15 +5,15 @@ L’objectif générale visé dans ce projet est de pouvoir mettre en place un s
 
 # 2)Fonctionnalités du système à implémenter
 Notre système de téléphonie devra disposé du minimum des fonctionnalités ci-dessous :
-• Appel vocale et vidéo
-• Messagerie Vocale
-• Serveur vocal interactif
-• File d’attente
-• Transferts d’appels
-• Renvoi d’appel
-• Conférence téléphonique
-• Centre d’appel
-• Mise en attente
+• Appel vocale et vidéo, 
+• Messagerie Vocale, 
+• Serveur vocal interactif, 
+• File d’attente, 
+• Transferts d’appels, 
+• Renvoi d’appel, 
+• Conférence téléphonique, 
+• Centre d’appel, 
+• Mise en attente, 
 
 Il sera également question de faire fonctionné le système via internet via. Pour cela, nous allons utiliser ngrok (Utilitaire utile pour créer des tunnels sécurisés vers des applications hébergées localement à l’aide d’un proxy inverse. C’est un utilitaire pour exposer n’importe
 quelle application hébergée localement sur le Web.) pour pouvoir avoir une adresse IP publique. Il n’est pas exclus que des idées d’amélioration puise s’ajouter en fonction des besoins. Mais la plus value de notre système est qu’il devra être en mesure d’attribuer des extensions automatiquement aux nouveaux équipements détectés sur le réseau (un peu comme le service DHCP qui attribut les adresses IP de façons automatique dans un réseau ).
